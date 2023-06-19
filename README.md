@@ -1,2 +1,2 @@
-# AWiD_projekt
-Różniczkowanie w przód/w tył. Optymalizacja.
+# Algorithms in data engineering
+Differentation backward & Differentation forward.
